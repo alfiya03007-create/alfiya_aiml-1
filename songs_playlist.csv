@@ -1,0 +1,101 @@
+song,artist,mood,genre,language
+Tum Hi Ho,Arijit Singh,Romantic,Bollywood,Hindi
+Kesariya,Arijit Singh,Romantic,Bollywood,Hindi
+Channa Mereya,Arijit Singh,Sad,Bollywood,Hindi
+Kal Ho Naa Ho,Sonu Nigam,Sad,Bollywood,Hindi
+Badtameez Dil,Benny Dayal,Happy,Bollywood,Hindi
+Dil Chahta Hai,Shankar Mahadevan,Happy,Bollywood,Hindi
+Zinda,Siddharth Mahadevan,Energetic,Bollywood,Hindi
+Apna Time Aayega,Ranveer Singh,Energetic,Hip-Hop,Hindi
+Kun Faya Kun,A. R. Rahman,Relaxed,Bollywood,Hindi
+Kabira,Tochi Raina,Relaxed,Bollywood,Hindi
+Lahore,Guru Randhawa,Romantic,Pop,Punjabi
+High Rated Gabru,Guru Randhawa,Happy,Pop,Punjabi
+Brown Munde,AP Dhillon,Energetic,Hip-Hop,Punjabi
+295,Sidhu Moose Wala,Energetic,Hip-Hop,Punjabi
+Excuses,AP Dhillon,Relaxed,Pop,Punjabi
+Shape of You,Ed Sheeran,Happy,Pop,English
+Happy,Pharrell Williams,Happy,Pop,English
+Perfect,Ed Sheeran,Romantic,Pop,English
+All of Me,John Legend,Romantic,Pop,English
+Someone Like You,Adele,Sad,Pop,English
+Numb,Linkin Park,Sad,Rock,English
+Believer,Imagine Dragons,Energetic,Rock,English
+Lose Yourself,Eminem,Energetic,Hip-Hop,English
+Yellow,Coldplay,Relaxed,Rock,English
+Riptide,Vance Joy,Relaxed,Pop,English
+Raabta,Arijit Singh,Romantic,Bollywood,Hindi
+Tera Ban Jaunga,Akhil Sachdeva,Romantic,Bollywood,Hindi
+Pee Loon,Mohit Chauhan,Romantic,Bollywood,Hindi
+Janam Janam,Arijit Singh,Romantic,Bollywood,Hindi
+Hawayein,Arijit Singh,Romantic,Bollywood,Hindi
+Agar Tum Saath Ho,Alka Yagnik,Sad,Bollywood,Hindi
+Tujhe Bhula Diya,Mohit Chauhan,Sad,Bollywood,Hindi
+Chahun Main Ya Naa,Arijit Singh,Sad,Bollywood,Hindi
+Ae Dil Hai Mushkil,Arijit Singh,Sad,Bollywood,Hindi
+Bhula Dena,Mustafa Zahid,Sad,Bollywood,Hindi
+Gallan Goodiyaan,Yash Narvekar,Happy,Bollywood,Hindi
+London Thumakda,Labh Janjua,Happy,Bollywood,Hindi
+Ilahi,Arijit Singh,Happy,Bollywood,Hindi
+Kala Chashma,Amar Arshi,Happy,Bollywood,Hindi
+Morni Banke,Guru Randhawa,Happy,Bollywood,Hindi
+Malhari,Vishal Dadlani,Energetic,Bollywood,Hindi
+Sultan,Sukhwinder Singh,Energetic,Bollywood,Hindi
+Kar Har Maidaan Fateh,Sukhwinder Singh,Energetic,Bollywood,Hindi
+Sher Khul Gaye,Vishal Dadlani,Energetic,Bollywood,Hindi
+Gully Boy Intro,Divine,Energetic,Hip-Hop,Hindi
+Mere Gully Mein,Divine,Energetic,Hip-Hop,Hindi
+Kaise Hua,Vishal Mishra,Sad,Bollywood,Hindi
+Phir Le Aya Dil,Rekha Bhardwaj,Relaxed,Bollywood,Hindi
+Sham,Amit Trivedi,Relaxed,Indie,Hindi
+Ik Junoon,Vishal Dadlani,Happy,Bollywood,Hindi
+Zaalima,Arijit Singh,Romantic,Bollywood,Hindi
+Tera Yaar Hoon Main,Arijit Singh,Sad,Bollywood,Hindi
+Dilliwaali Girlfriend,Arijit Singh,Happy,Bollywood,Hindi
+Lakshya,Shankar Mahadevan,Energetic,Bollywood,Hindi
+Kho Gaye Hum Kahan,Jasleen Royal,Relaxed,Indie,Hindi
+Soch,Hardy Sandhu,Sad,Pop,Punjabi
+Lemonade,Diljit Dosanjh,Happy,Pop,Punjabi
+Do You Know,Diljit Dosanjh,Romantic,Pop,Punjabi
+Lover,Diljit Dosanjh,Romantic,Pop,Punjabi
+Born to Shine,Diljit Dosanjh,Energetic,Pop,Punjabi
+Same Beef,Sidhu Moose Wala,Energetic,Hip-Hop,Punjabi
+Legend,Sidhu Moose Wala,Energetic,Hip-Hop,Punjabi
+Insane,AP Dhillon,Energetic,Hip-Hop,Punjabi
+With You,AP Dhillon,Romantic,Pop,Punjabi
+Summer High,AP Dhillon,Relaxed,Pop,Punjabi
+Naah,Hardy Sandhu,Happy,Pop,Punjabi
+Kya Baat Ay,Hardy Sandhu,Romantic,Pop,Punjabi
+Qismat,Ammy Virk,Sad,Pop,Punjabi
+Tarsem Jassar Anthem,Tarsem Jassar,Energetic,Folk,Punjabi
+Peaches,Diljit Dosanjh,Happy,Pop,Punjabi
+Goat,Diljit Dosanjh,Energetic,Hip-Hop,Punjabi
+Suit Suit,Guru Randhawa,Happy,Pop,Punjabi
+I Shareabi,Yo Yo Honey Singh,Happy,Pop,Punjabi
+Pasoori,Ali Sethi,Relaxed,Folk,Punjabi
+Jugni Ji,Harshdeep Kaur,Relaxed,Folk,Punjabi
+Blinding Lights,The Weeknd,Energetic,Pop,English
+Levitating,Dua Lipa,Happy,Pop,English
+Uptown Funk,Mark Ronson,Happy,Funk,English
+Can't Stop the Feeling!,Justin Timberlake,Happy,Pop,English
+Thinking Out Loud,Ed Sheeran,Romantic,Pop,English
+A Thousand Years,Christina Perri,Romantic,Pop,English
+Until I Found You,Stephen Sanchez,Romantic,Indie,English
+Let Her Go,Passenger,Sad,Indie,English
+Fix You,Coldplay,Sad,Rock,English
+Drivers License,Olivia Rodrigo,Sad,Pop,English
+In the End,Linkin Park,Sad,Rock,English
+Thunder,Imagine Dragons,Energetic,Rock,English
+Smells Like Teen Spirit,Nirvana,Energetic,Rock,English
+Stronger,Kanye West,Energetic,Hip-Hop,English
+Sicko Mode,Travis Scott,Energetic,Hip-Hop,English
+Viva La Vida,Coldplay,Energetic,Rock,English
+Sunflower,Post Malone,Relaxed,Hip-Hop,English
+Location,Khalid,Relaxed,R&B,English
+Put Your Records On,Corinne Bailey Rae,Relaxed,R&B,English
+Golden Hour,JVKE,Romantic,Pop,English
+Counting Stars,OneRepublic,Energetic,Pop,English
+Stay With Me,Sam Smith,Sad,Pop,English
+Watermelon Sugar,Harry Styles,Happy,Pop,English
+Circles,Post Malone,Relaxed,Pop,English
+Bohemian Rhapsody,Queen,Energetic,Rock,English
